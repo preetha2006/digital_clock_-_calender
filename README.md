@@ -35,4 +35,4 @@ A responsive digital clock and calendar built using HTML, CSS, and JavaScript. T
    - Arrays for weekdays and months are used to display the day and month names.
    - Leading zeroes are added for single-digit dates.
 
-To view 
+To view https://github.com/preetha2006/digital_clock_-_calender.git
