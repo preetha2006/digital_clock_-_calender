@@ -2,7 +2,6 @@
 
 A responsive digital clock and calendar built using HTML, CSS, and JavaScript. This project displays the current time, date, and day of the week. It updates the time every second, ensuring users see the exact time with a clean, user-friendly interface.
 
-![image](https://github.com/user-attachments/assets/f7516120-0c8d-46cb-b3ed-c2c8db482605)
 
 ## Features
 
